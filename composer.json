@@ -1,0 +1,19 @@
+{
+    "name": "gaurav/tree-behaviour-laravel",
+    "description": "Tree Behaviour Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gaurav Raj Sinha",
+            "email": "gauravraj.1998.sinha@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "TreeBehaviour\\TreeBehaviourLaravel\\": "src/"
+        }
+    },
+    "require": {}
+}
